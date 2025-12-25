@@ -143,28 +143,6 @@ export SERPER_API_KEY="your-key-here"
 - Implement user authentication if deploying publicly
 - Use HTTPS in production environments
 
-## 🚀 Production Deployment
-
-For production deployment, consider:
-
-1. **Use a production WSGI server** (e.g., Gunicorn):
-```bash
-pip install gunicorn
-gunicorn -w 4 -b 0.0.0.0:5000 app:app
-```
-
-2. **Set up a reverse proxy** (e.g., Nginx)
-
-3. **Enable HTTPS** with SSL certificates
-
-4. **Add error logging and monitoring**
-
-5. **Configure CORS** if needed for different domains
-
-## 📄 License
-
-This project is part of the Agentic RAG homework assignment.
-
 ## 🙏 Acknowledgments
 
 - Built with LangGraph for workflow orchestration
