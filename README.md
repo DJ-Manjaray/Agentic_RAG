@@ -19,7 +19,7 @@ A Simple web interface for the Medical Agentic RAG (Retrieval-Augmented Generati
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.12+
 - All dependencies from the original `agentic_RAG.py` project
 - Flask web framework
 
