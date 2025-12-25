@@ -3,6 +3,9 @@
 
 A Simple web interface for the Medical Agentic RAG (Retrieval-Augmented Generation) system built with Flask, featuring an intelligent routing system that dynamically selects the best data source for medical queries.
 
+<img width="1483" height="799" alt="image" src="https://github.com/user-attachments/assets/2df500a1-2a8b-4560-82f0-7297eeea1721" />
+
+
 ## 🌟 Features
 
 - **Intelligent Routing**: Automatically determines whether to search Medical Q&A database, Medical Device Manuals, or perform Web Search
